@@ -98,8 +98,8 @@ TaskManager-main/
 Clone this repository and install dependencies across the monorepo:
 
 ```bash
-git clone https://github.com/1215harsha/Task-Manager.git
-cd Task-Manager
+git clone https://github.com/1215harsha/TaskManager.git
+cd TaskManager
 npm install
 ```
 
